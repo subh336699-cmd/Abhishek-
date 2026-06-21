@@ -1,0 +1,6 @@
+{
+  "name": "Operations Log",
+  "description": "Shift logistics tracker and coordinator to log arrivals, departures, operator observations, CSV import/export, and AI-assisted summaries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
